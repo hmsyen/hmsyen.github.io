@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>哈瑪星海浪</title>
+    <title>來自哈瑪星Hamasen</title>
     <link>https://hmsyen.github.io/</link>
-    <description>Recent content on 哈瑪星海浪</description>
+    <description>Recent content on 來自哈瑪星Hamasen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 30 Apr 2022 10:07:47 +0800</lastBuildDate><atom:link href="https://hmsyen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 May 2023 13:38:47 +0800</lastBuildDate><atom:link href="https://hmsyen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>旗津回首哈瑪星</title>
+      <link>https://hmsyen.github.io/blog/post-1/</link>
+      <pubDate>Wed, 10 May 2023 13:38:47 +0800</pubDate>
+      
+      <guid>https://hmsyen.github.io/blog/post-1/</guid>
+      <description>旗津回首哈瑪星 這張是30出頭時於某個午后，搭乘渡輪至旗津，回首哈瑪星，隨手以安卓手機拍下來的。 雖然是平價的手機，但因為天氣意外地好，拍起來特別有感。
+西子灣即時影像 Youtube video   </description>
+    </item>
+    
     <item>
       <title>小鎮的不可思議日常</title>
       <link>https://hmsyen.github.io/blog/mypost-2-/</link>
@@ -27,35 +37,6 @@ JoJo’s Bizarre Adventure Diamond is Unbreakable
       <description>你的汗有說謊的味道
 dorururu dorururu
 黃金之風@@@ 里長伯 布加拉堤/ 布姐/ 里長伯 總是四處招募人手調停糾紛 喜愛美食 和路上行人打招呼</description>
-    </item>
-    
-    <item>
-      <title>哈瑪星醬的測試</title>
-      <link>https://hmsyen.github.io/blog/test/</link>
-      <pubDate>Mon, 25 Apr 2022 10:07:47 +0800</pubDate>
-      
-      <guid>https://hmsyen.github.io/blog/test/</guid>
-      <description>Hello
-Anyone else?
-一級標題警語 二級標題加2個# 我是六級我最小  It&amp;rsquo;s JoJo, go ahead.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://hmsyen.github.io/blog/post-1/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://hmsyen.github.io/blog/post-1/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://hmsyen.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://hmsyen.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
   </channel>

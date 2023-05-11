@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 哈瑪星海浪</title>
+    <title>Tags on 來自哈瑪星Hamasen</title>
     <link>https://hmsyen.github.io/tags/</link>
-    <description>Recent content in Tags on 哈瑪星海浪</description>
+    <description>Recent content in Tags on 來自哈瑪星Hamasen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 30 Apr 2022 10:07:47 +0800</lastBuildDate><atom:link href="https://hmsyen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -17,92 +17,11 @@
     </item>
     
     <item>
-      <title>牛郎</title>
-      <link>https://hmsyen.github.io/tags/%E7%89%9B%E9%83%8E/</link>
-      <pubDate>Sat, 30 Apr 2022 10:07:47 +0800</pubDate>
-      
-      <guid>https://hmsyen.github.io/tags/%E7%89%9B%E9%83%8E/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>辣妹</title>
-      <link>https://hmsyen.github.io/tags/%E8%BE%A3%E5%A6%B9/</link>
-      <pubDate>Sat, 30 Apr 2022 10:07:47 +0800</pubDate>
-      
-      <guid>https://hmsyen.github.io/tags/%E8%BE%A3%E5%A6%B9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>雙重人格</title>
       <link>https://hmsyen.github.io/tags/%E9%9B%99%E9%87%8D%E4%BA%BA%E6%A0%BC/</link>
       <pubDate>Sat, 30 Apr 2022 10:07:47 +0800</pubDate>
       
       <guid>https://hmsyen.github.io/tags/%E9%9B%99%E9%87%8D%E4%BA%BA%E6%A0%BC/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Game</title>
-      <link>https://hmsyen.github.io/tags/game/</link>
-      <pubDate>Mon, 25 Apr 2022 10:07:47 +0800</pubDate>
-      
-      <guid>https://hmsyen.github.io/tags/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photos</title>
-      <link>https://hmsyen.github.io/tags/photos/</link>
-      <pubDate>Mon, 25 Apr 2022 10:07:47 +0800</pubDate>
-      
-      <guid>https://hmsyen.github.io/tags/photos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>岸邊一動也不動</title>
-      <link>https://hmsyen.github.io/tags/%E5%B2%B8%E9%82%8A%E4%B8%80%E5%8B%95%E4%B9%9F%E4%B8%8D%E5%8B%95/</link>
-      <pubDate>Mon, 25 Apr 2022 10:07:47 +0800</pubDate>
-      
-      <guid>https://hmsyen.github.io/tags/%E5%B2%B8%E9%82%8A%E4%B8%80%E5%8B%95%E4%B9%9F%E4%B8%8D%E5%8B%95/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>https://hmsyen.github.io/tags/html/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://hmsyen.github.io/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New</title>
-      <link>https://hmsyen.github.io/tags/new/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://hmsyen.github.io/tags/new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://hmsyen.github.io/tags/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://hmsyen.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>React</title>
-      <link>https://hmsyen.github.io/tags/react/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://hmsyen.github.io/tags/react/</guid>
       <description></description>
     </item>
     
